@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [Strugbits](https://www.strugbits.com/) where we build Web and Mobile Applications for businesses 
+- 🔭 I’m a freelance developer focused on helping businesses grow by building web and mobile applications. 
 - 🌱 I’m currently learning Generative AI
 - ⚡ Fun fact: Tavel the 🗺️World on 🏍️Bike
 
